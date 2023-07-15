@@ -1,7 +1,7 @@
-package sa.com.saib.asal.service;
+package com.fintech.asal.services;
 
 import org.springframework.stereotype.Service;
-import sa.com.saib.asal.dtos.Note;
+import com.fintech.asal.dtos.Note;
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
 import javax.xml.bind.Marshaller;

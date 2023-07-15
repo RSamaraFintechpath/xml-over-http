@@ -1,4 +1,4 @@
-package sa.com.saib.asal.dtos;
+package com.fintech.asal.dtos;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package sa.com.saib.asal;
+package com.fintech.asal;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;
